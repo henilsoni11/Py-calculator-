@@ -1,0 +1,5 @@
+words='''hi henil
+how are you
+are you fine '''
+for character in words :
+    print(character )
